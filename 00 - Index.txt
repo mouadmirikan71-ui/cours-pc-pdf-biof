@@ -19,5 +19,3 @@ Physique 2BAC Sciences Physiques BIOF
 17_-_Systèmes_mécaniques_oscillants.pdf
 18_-_Aspects_énergétiques_des_oscillations_mécaniques.pdf
 19_-_Atome_et_mécanique_de_Newton.pdf
-
-Source: https://www.alloschool.com/course/physique-et-chimie-2eme-bac-sciences-physiques-biof
