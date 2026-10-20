@@ -1,0 +1,21 @@
+Physique 2BAC Sciences Physiques BIOF
+
+01_-_Ondes_mécaniques_progressives.pdf
+02_-_Ondes_mécaniques_progressives_périodiques.pdf
+03_-_Propagation_des_ondes_lumineuses.pdf
+04_-_Décroissance_radioactive.pdf
+05_-_Noyaux_masse_et_énergie.pdf
+06_-_Dipôle_RC.pdf
+07_-_Dipôle_RL.pdf
+08_-_Oscillations_libres_dun_circuit_RLC_série.pdf
+09_-_Circuit_RLC_série_en_régime_sinusoïdal_forcé.pdf
+10_-_Ondes_électromagnétiques.pdf
+11_-_Modulation_damplitude.pdf
+12_-_Lois_de_Newton.pdf
+13_-_Chute_libre_verticale_dun_solide.pdf
+14_-_Mouvements_plans.pdf
+15_-_Mouvement_des_satellites_et_des_planètes.pdf
+16_-_Mouvement_de_rotation_dun_solide.pdf
+17_-_Systèmes_mécaniques_oscillants.pdf
+18_-_Aspects_énergétiques_des_oscillations_mécaniques.pdf
+19_-_Atome_et_mécanique_de_Newton.pdf
